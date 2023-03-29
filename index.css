@@ -1,0 +1,43 @@
+body {
+  max-width: 50em;
+  text-align: justify;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+}
+#titulo {
+  font-family: "Abel", sans-serif;
+  font-size: 40px;
+  color: black;
+}
+#jornalista {
+  font-family: "Abel", sans-serif;
+  font-size: 20px;
+  color: black;
+}
+#jornal {
+  font-family: "Abel", sans-serif;
+  font-size: 16px;
+  color: black;
+}
+#horario {
+  font-family: "Abel", sans-serif;
+  font-size: 15px;
+  color: black;
+}
+.texto {
+  font-family: "Abel", sans-serif;
+  font-size: 17px;
+  color: black;
+}
+#subtitulo {
+  font-family: "Abel", sans-serif;
+  font-size: 37px;
+  color: black;
+}
+#reporter {
+  font-family: "Abel", sans-serif;
+  font-size: 16px;
+  color: black;
+}
